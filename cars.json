@@ -1,0 +1,42 @@
+[
+  {
+    "brand": "Toyota",
+    "logo": "https://images.seeklogo.com/logo-png/14/1/toyota-logo-png_seeklogo-141406.png"
+  },
+  {
+    "brand": "BMW",
+    "logo": "https://images.seeklogo.com/logo-png/17/1/bmw-logo-png_seeklogo-170616.png"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "logo": "https://images.seeklogo.com/logo-png/9/1/mercedes-benz-logo-png_seeklogo-91081.png"
+  },
+  {
+    "brand": "Audi",
+    "logo": "https://images.seeklogo.com/logo-png/1/1/audi-logo-png_seeklogo-13445.png"
+  },
+  {
+    "brand": "Tesla",
+    "logo": "https://images.seeklogo.com/logo-png/36/1/tesla-logo-png_seeklogo-365010.png"
+  },
+  {
+    "brand": "Maserati",
+    "logo": "https://images.seeklogo.com/logo-png/44/1/maserati-logo-png_seeklogo-448156.png"
+  } ,
+  {
+    "brand": "Ferrari",
+    "logo": "https://images.seeklogo.com/logo-png/5/1/ferrari-logo-png_seeklogo-53764.png"
+  },
+  {
+    "brand": "Togg",
+    "logo": "https://images.seeklogo.com/logo-png/42/1/togg-logo-png_seeklogo-427242.png"
+  },
+  {
+    "brand": "Rolls-Royce",
+    "logo": "https://images.seeklogo.com/logo-png/24/1/rolls-royce-logo-png_seeklogo-247700.png"
+  },
+  {
+    "brand": "alfa romeo",
+    "logo": "https://images.seeklogo.com/logo-png/0/1/alfa-romeo-logo-png_seeklogo-6376.png"
+  }  
+]
