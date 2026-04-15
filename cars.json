@@ -1,5 +1,9 @@
 [
   {
+    "brand": "Testing",
+    "logo": "https://github.com/ZAWNAING22/Machine-Learning-journey/blob/main/horse.jpeg"
+  },
+  {
     "brand": "Toyota",
     "logo": "https://images.seeklogo.com/logo-png/14/1/toyota-logo-png_seeklogo-141406.png"
   },
