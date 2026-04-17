@@ -1,0 +1,94 @@
+{
+  "Teachers": [
+    {
+      "name": "Mehmet Akbaba",
+      "id": 1
+    },
+    {
+      "name": "Umit Atila",
+      "id": 2
+    },
+    {
+      "name": "Yasin Ortakci",
+      "id": 3
+    },
+    {
+      "name": "Oguz Findik",
+      "id": 4
+    }
+  ],
+  "Courses": [
+    {
+      "code": "BLM200",
+      "name": "Electronics",
+      "teacherId": 1,
+      "credit": 4
+    },
+    {
+      "code": "BLM100",
+      "name": "Programming",
+      "teacherId": 2,
+      "credit": 6
+    },
+    {
+      "code": "BLM300",
+      "name": "Operating Systems",
+      "teacherId": 3,
+      "credit": 4
+    },
+    {
+      "code": "BLM211",
+      "name": "Logic",
+      "teacherId": 1,
+      "credit": 4
+    },
+    {
+      "code": "BLM207",
+      "name": "Data Structures",
+      "teacherId": 4,
+      "credit": 4
+    },
+    {
+      "code": "BLM101",
+      "name": "Mathematics",
+      "teacherId": 3,
+      "credit": 5
+    },
+    {
+      "code": "BLM312",
+      "name": "Formal Languages",
+      "teacherId": 4,
+      "credit": 3
+    },
+    {
+      "code": "BLM410",
+      "name": "Artificial Intelligence",
+      "teacherId": 2,
+      "credit": 3
+    },
+    {
+      "code": "BLM311",
+      "name": "Microprocessors",
+      "teacherId": 1,
+      "credit": 4
+    },
+    {
+      "code": "BLM408",
+      "name": "Parallel Programming",
+      "teacherId": 4,
+      "credit": 3
+    },
+    {
+      "code": "BLM305",
+      "name": "Numerical Analysis",
+      "teacherId": 3,
+      "credit": 4
+    },
+    {
+      "code": "BLM203",
+      "name": "Database",
+      "teacherId": 2,
+      "credit": 5
+    }
+  ]
+}
