@@ -286,11 +286,11 @@ Write this last, after you know your results. It must be 150–200 words.
 ### **Day 2 final checks**
 
 - Six papers read and checked
-- Related Work written by you
+- Related Work written 
 - Introduction completed
 - Method completed
 - Actual results inserted
-- Discussion and diagnostic analysis written by you
+- Discussion and diagnostic analysis written 
 - Conclusion and limitations completed
 - Abstract written
 - IEEE references checked
